@@ -1,0 +1,26 @@
+
+/******************************************************************************
+2.	Hace un programa que tome dos números y diga si ambos son pares o impares.
+
+*******************************************************************************/
+#include <stdio.h>
+
+int main()
+{
+    int numero1, numero2;
+    
+    printf("Dame dos numeros: ");
+    scanf("%d %d", &numero1, &numero2);
+    
+    if(numero1 % 2 == 0){
+        if(numero2 % 2 ==0){
+            printf("Ambos %d y %d numeros son par", numero1, numero2);
+        }
+    }else{
+        if(numero2 % 2 !=0){
+            printf("Ambos %d y %d numeros son impares", numero1, numero2);
+        }
+    }
+
+    return 0;
+}
