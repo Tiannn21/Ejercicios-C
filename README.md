@@ -10,7 +10,7 @@ Los ejercicios están divididos en las siguientes secciones:
 Ejercicios relacionados con operaciones aritméticas básicas, uso de operadores y expresiones.
 
 #### 🔀 Condicionales
-Problemas que utilizan estructuras condicionales como if, else y switch.
+Problemas que utilizan estructuras condicionales como if, else.
 
 #### 🔁 Bucles
 Ejercicios que emplean estructuras repetitivas como for, while y do-while.
