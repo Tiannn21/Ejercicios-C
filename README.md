@@ -18,5 +18,8 @@ Ejercicios que emplean estructuras repetitivas como for, while y do-while.
 #### 🧮 Arreglos
 Ejercicios que trabajan con vectores (arrays unidimensionales), incluyendo lectura, escritura y procesamiento de datos.
 
+#### 🧊 Matrices
+Ejercicios que trabajan con matrices (arrays bidimensionales), incluyendo lectura, escritura y procesamiento de datos.
+
 ### Consultas
 sebastianedgardo.asencio@alumnos.ulagos.cl
